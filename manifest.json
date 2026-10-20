@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "chonkers-alert",
+  "versions": [
+    {
+      "commit": "8088a62caed59e1fa5876223ebaedcc3761d3876",
+      "parsed_at": "2026-10-20T10:12:38.733579+00:00",
+      "filetree": "filetree/8088a62caed59e1fa5876223ebaedcc3761d3876.nq.gz",
+      "blobs": [
+        "blob/d341d9961b47c762248fb3656663927703c08543.nq.gz",
+        "blob/294ef129e42665a2d3639237d16cd817916490fb.nq.gz",
+        "blob/e2438352a8e5c765c09ad536764020bcbcc44514.nq.gz",
+        "blob/9f04432c6544c2d8721d8a874352fa217a7436d3.nq.gz",
+        "blob/857ec01dba0f9bdf86e3cef8cf57a35a756587ea.nq.gz",
+        "blob/bfb728d6853dc7570b5d4e51f631311a860205eb.nq.gz",
+        "blob/baff17b9c85f9819a7afd9606970f27c6e6c3825.nq.gz",
+        "blob/91e3001e7349436c31359641f21c5f1c0b7190d8.nq.gz",
+        "blob/7294f89436d358dbcb41176a024b2254f2453a55.nq.gz",
+        "blob/34e0c72bfcdeb30b5a36449e09c0dd8d8db9355d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
