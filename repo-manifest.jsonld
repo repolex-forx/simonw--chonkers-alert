@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/chonkers-alert/commit/8088a62caed59e1fa5876223ebaedcc3761d3876",
       "git:hexsha": "8088a62caed59e1fa5876223ebaedcc3761d3876",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
